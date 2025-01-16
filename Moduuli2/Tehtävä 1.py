@@ -1,2 +1,2 @@
-Käyttäjä = input("Saisinko teikäläisen nimen?:")
-print(f"Tervehdys, {Käyttäjä}!")
+Kayttaja = input("Saisinko teikäläisen nimen?:")
+print(f"Tervehdys, {Kayttaja}!")
